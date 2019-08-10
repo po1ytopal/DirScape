@@ -1,0 +1,15 @@
+(c) 2019 po1ytopal
+This project and all code contained is licensed under the MIT license (see LICENSE.txt for details)
+
+DirScape is written for linux, planned updates for UNIX, with the aim of bringing heuristics to categorical file organization plus advanced duplicate handling.
+
+The goal of DirScape is to primarily solve my own problem of hideous file heirarchies that are the chaotic jumble of what happens when you migrate/upgrade/reinstall and are forced to backup your current documents area and attempt to re-integrate it at a later date.
+
+Installation: in work.
+
+Usage: in work.
+
+Credits: This software was authored by po1ytopal A. Hernandez Jr.
+
+License: MIT, (see LICENSE.txt for details).
+
